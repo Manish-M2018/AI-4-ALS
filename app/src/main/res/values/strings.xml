@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Face_det</string>
+    <string name="i0">Make a call</string>
+    <string name="i1">Meal time phrases</string>
+    <string name="i2">Room related phrases</string>
+    <string name="i3">Yes or no reply</string>
+    <string name="c1">Call your close friend!</string>
+    <string name="c2">Call an Ambulance!</string>
+    <string name="m1">Could I get a glass of water please</string>
+    <string name="m2">What\'s for breakfast?</string>
+    <string name="m3">What\'s for lunch?</string>
+    <string name="m4">What\'s for dinner?</string>
+    <string name="m5">Could I get a cup of coffee?</string>
+    <string name="m6">Could you pass the salt please</string>
+    <string name="m7">Could you pass the sugar please</string>
+    <string name="m8">Could you pass the butter please</string>
+    <string name="r1">Could you put the light on?</string>
+    <string name="r2">I\'m going to bed</string>
+    <string name="r3">Could you switch on the TV?</string>
+    <string name="r4">Could you give me a book to read?</string>
+    <string name="y1">Yes</string>
+    <string name="y2">No</string>
+
+    <string-array name="Items">
+        <item>Meal time phrases</item>
+        <item>Room related phrases</item>
+        <item>Yes or no reply</item>
+
+        <!--   Meal time phrases     -->
+        <item>Could I get a glass of water please</item>
+        <item>What\'s for breakfast?</item>
+        <item>What\'s for lunch?</item>
+        <item>What\'s for dinner?</item>
+        <item>Could I get a cup of coffee?</item>
+        <item>Could you pass the salt please</item>
+        <item>Could you pass the sugar please</item>
+        <item>Could you pass the butter please</item>
+
+        <!--    Room related phrases    -->
+        <item>Can you put the light on?</item>
+        <item>I\'m going to bed</item>
+        <item>Could you switch on the TV?</item>
+        <item>Could you give me a book to read?</item>
+
+        <!--    Yes or no reply    -->
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+
+
+
+</resources>
