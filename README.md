@@ -7,4 +7,4 @@ Used Firebase ML Kit to achieve the same<br>
 Cheers! ✌ 👍<br>
 Happy hacking! 😊<br><br>
 <br>
-Also, one more thing...link your project to firebase
+Also, one more thing...link your project to firebase(duh..obviously)
