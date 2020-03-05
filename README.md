@@ -3,7 +3,6 @@ Team number #133<br>
 Team: Manish.M (leader) and Vijayakumar Pattanashetti<br>
 A solution for the patients who are suffering from ALS built during Hackverse 2020 at NIT-K(Surathkal)<br>
 Uses <b>Firebase ML kit's face detection</b> feature to detect the blinking of the eyes by checking the probability of the left eye or the right eye being open and consequently perform various tasks such as speaking out some common sentences using Google's <b>Text-to-Speech</b> feature and also make emergency calls through a call intent to help the patients suffering from ALS<br>
-Used Firebase ML Kit to achieve the same<br>
 Cheers! ✌ 👍<br>
 Happy hacking! 😊<br><br>
 <br>
